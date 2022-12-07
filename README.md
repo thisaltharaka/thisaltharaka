@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👀 I’m interested in ReactJS, NodeJS, Bootstrap, JavaScript, HTML5, CSS, MongoDB. 
 - 🌱 I’m currently learning Python and Flutter. 
 - 💞️ I’m looking to collaborate on Interactive Web Applications Development and mobile Apps Development.
-- -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thisal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thisaltharaka/)
+- -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thisal Tharaka-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thisaltharaka/)
 
 <!---
 thisaltharaka/thisaltharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
