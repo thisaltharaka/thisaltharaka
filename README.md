@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python and Flutter. 
 - 💞️ I’m looking to collaborate on Interactive Web Applications and mobile Apps.
 - 📫 You can reach me via my email : thisal.tharaka@gmail.com or Whatsapp: +94766135801
-- 
 
 <!---
 thisaltharaka/thisaltharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
