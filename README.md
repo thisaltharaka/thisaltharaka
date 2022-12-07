@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/thisaltharaka/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - 👀 I’m interested in ReactJS, NodeJS, Bootstrap, WEB 3.0 and Dapps Development. 
 - 🌱 I’m currently learning Python and Flutter. 
 - 💞️ I’m looking to collaborate on Interactive Web Applications and mobile Apps.
--:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thisaltharaka/)
 
 <!---
 thisaltharaka/thisaltharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
