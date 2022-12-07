@@ -30,12 +30,12 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Siri Lanka.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 - 👋 Hi, I’m @thisaltharaka
 - 👀 I’m interested in ReactJS, NodeJS, Bootstrap, WEB 3.0 and Dapps Development. 
 - 🌱 I’m currently learning Python and Flutter. 
 - 💞️ I’m looking to collaborate on Interactive Web Applications and mobile Apps.
-- 📫 You can reach me via my email : thisal.tharaka@gmail.com or Whatsapp: +94766135801
+-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <!---
 thisaltharaka/thisaltharaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
