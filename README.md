@@ -32,9 +32,9 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka.
 - 👋 Hi, I’m @thisaltharaka
-- 👀 I’m interested in ReactJS, NodeJS, Bootstrap, WEB 3.0 and Dapps Development. 
+- 👀 I’m interested in ReactJS, NodeJS, Bootstrap, JavaScript, HTML5, CSS, MongoDB. 
 - 🌱 I’m currently learning Python and Flutter. 
-- 💞️ I’m looking to collaborate on Interactive Web Applications and mobile Apps.
+- 💞️ I’m looking to collaborate on Interactive Web Applications Development and mobile Apps Development.</br>
 -:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thisaltharaka/)
 
 <!---
