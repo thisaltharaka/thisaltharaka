@@ -28,8 +28,9 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Siri Lanka.
 - 👋 Hi, I’m @thisaltharaka
 - 👀 I’m interested in ReactJS, NodeJS, Bootstrap, WEB 3.0 and Dapps Development. 
 - 🌱 I’m currently learning Python and Flutter. 
